@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  margin: 30px;
+  justify-content: space-around;
+}
+
+.wrap {
+  width: 40%;
+}
+
+li:hover {
+    cursor: pointer;
+    background-color: cornflowerblue;
+}
+
+.active {
+  background-color: cornflowerblue;
+}
